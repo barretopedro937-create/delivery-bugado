@@ -1,0 +1,22 @@
+escopo;
+
+ sistemas de delivery
+
+estratégia;
+
+Realizar teste funcionais se o visual do sistema esta conrrespondido com ux/ix , 
+fazer a segurança do sistemas ver o desempenho esta de acordo com  trafego de dados 
+
+recursos;
+
+arquivo clone de Caio Lima
+
+index.html.delivery
+
+cronograma; 
+
+18:30 as 19:40 dia 14/10/2026
+
+ferramentas utilizadas na operação;
+
+vs code e github
