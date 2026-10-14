@@ -1,0 +1,21 @@
+elementos;
+
+CTO1
+
+objetivo/alvo;
+
+realizar corretamenta o valor do sistema
+
+contexto inicial;
+
+o formulario nao tinha cor correta para o usuario entende,
+o valor do lanche aumenta,
+
+ação executada;
+
+o valor nao correspondia ao valor real do lanche
+
+Saída Esperada;
+
+
+ver valor esta correto
